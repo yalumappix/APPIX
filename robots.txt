@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odd-salad-6409.yalum-appix.workers.dev/sitemap.xml

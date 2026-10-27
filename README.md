@@ -34,6 +34,10 @@ APPIX est un projet personnel de création web développé par YALUM. Il présen
 | `politique-cookies.html` | Informations relatives aux cookies |
 | `conditions-generales.html` | Conditions générales |
 | `images/` | Ressources graphiques |
+| `robots.txt` | Directives pour les robots d’indexation |
+| `sitemap.xml` | Liste des pages publiques pour les moteurs de recherche |
+| `SECURITY.md` | Procédure de signalement de sécurité |
+| `CHECKLIST-LANCEMENT.md` | Vérifications à faire avant un lancement commercial |
 
 ## Lancer en local
 
